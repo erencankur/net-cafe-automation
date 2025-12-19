@@ -25,7 +25,7 @@ net-cafe-automation/
 
 ## Setup
 ```bash
-cd /Users/erencankur/Documents/Software/101/python101/net-cafe-automation
+cd net-cafe-automation
 pip install -r requirements.txt
 ```
 
